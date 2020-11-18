@@ -1,3 +1,6 @@
-#Livro de Receitas:man cook:
-Olaa bem vindo ao livro de receitas
- Strogonoff de frango
+# Livro de Receitas :man_cook:
+
+- Bolo Pullman
+
+
+
